@@ -1,3 +1,12 @@
-# xor_crack.c
+# XOR Crack
 
-Write a program that allows you to "crack" ciphertexts generated using a Vigenere-like cipher, where byte-wise XOR is used instead of addition modulo 26. 
+This C program attempts to "crack" ciphertexts that were generated using a Vigenère-like cipher. In this case, it uses byte-wise XOR instead of the typical addition modulo 26.
+
+### Features:
+- Decrypts XOR-based ciphers.
+- Provides a basic introduction to cryptographic cracking techniques.
+
+This project serves as a simple exercise in cryptography and XOR cipher cracking techniques.
+
+---
+
